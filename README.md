@@ -1,4 +1,4 @@
-# 💳 Credit Card Customer Segmentation and Cluster Profiling  
+# 💳 Credit Card Customer Segmentation and Risk Profiling
 
 This project focuses on segmenting credit card customers based on their spending, repayment, and credit usage behavior. By applying **unsupervised learning techniques**, the goal is to group customers into meaningful clusters that can help banks and financial institutions with **personalized marketing, risk management, and customer retention strategies**.  
 
